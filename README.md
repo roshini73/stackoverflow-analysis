@@ -1,5 +1,5 @@
 # stackoverflow-analysis
-CS 145 Project III: Querying, Visualizing, and Machine Learning with Stack Overflow on BigQuery
+Querying, Visualizing, and Machine Learning with Stack Overflow on BigQuery
 This is an exploratin on what influences a question's score on Stack Overflow and includes a machine learning component to predict a question's score.
 
 Access notebook here: https://colab.research.google.com/drive/1oX29pwhPY4Pwkhyzq0xe9kTF_KQxcezn
